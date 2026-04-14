@@ -1,0 +1,110 @@
+# Site Settings
+title                    : "Yi Liu"
+description              : "Lecturer (Assistant Professor), School of ICT, Griffith University"
+repository               : "liuyi-academic/liuyi-academic.github.io"
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+
+# Site Author
+author:
+  name             : "Yi Liu"
+  avatar           : "images/profile.jpg"
+  bio              :
+  location         : "Gold Coast, Australia"
+  employer         :
+  email            : "yi009@e.ntu.edu.sg"
+  googlescholar    : "https://scholar.google.com/citations?user=DcFodKsAAAAJ"
+  github           :
+  linkedin         :
+  orcid            :
+  dblp             :
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - raw_material
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Australia/Brisbane
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
