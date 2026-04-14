@@ -199,7 +199,7 @@ author_profile: true
   *ASE 2022 (Industry Showcase)*.
 
 - **Automatic Web Testing Using Curiosity-Driven Reinforcement Learning**
-  Yan Zheng, **Yi Liu**, Xiaofei Xie, Yepang Liu, Lei Ma, Jianye Hao, Yang Liu.
+  Yan Zheng\*, **Yi Liu**\*, Xiaofei Xie, Yepang Liu, Lei Ma, Jianye Hao, Yang Liu.
   *ICSE 2021*.
 
 - **Industry Practice of JavaScript Dynamic Analysis on WeChat Mini-Programs**

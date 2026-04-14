@@ -56,7 +56,7 @@ For a full list, see the [Publications](/publications/) page.
   *ACL 2024 Findings*.
 
 - **Automatic Web Testing Using Curiosity-Driven Reinforcement Learning**
-  Yan Zheng, **Yi Liu**, Xiaofei Xie, Yepang Liu, Lei Ma, Jianye Hao, Yang Liu.
+  Yan Zheng\*, **Yi Liu**\*, Xiaofei Xie, Yepang Liu, Lei Ma, Jianye Hao, Yang Liu.
   *ICSE 2021*.
 
 # Awards & Honors
@@ -103,6 +103,7 @@ For a full list, see the [Publications](/publications/) page.
 
 - **Zhihao Chen** (Griffith University)
 - **Yujiang Li** (Griffith University)
+- **Zihao Xu** (Griffith University)
 - **Yuxi Li** (HUST)
 - **Ziqi Ding** (UNSW Sydney)
 - **Kexin Chen** (ZJU)
