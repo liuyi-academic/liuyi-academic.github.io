@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+description: "Full publication list of Yi Liu — papers at IEEE S&P, ACM CCS, USENIX Security, NDSS, ICSE, FSE, ACL, OOPSLA, ASE on LLM security, AI agent security, and software testing."
 author_profile: true
 ---
 

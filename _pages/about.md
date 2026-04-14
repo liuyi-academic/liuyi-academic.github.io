@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Yi Liu — Lecturer (Assistant Professor) at Griffith University. Research in LLM Security, AI Agent Security, and Software Engineering."
 author_profile: true
 redirect_from: 
   - /about/
