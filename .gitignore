@@ -12,3 +12,4 @@ Gemfile.lock
 *.log
 node_modules/
 .env
+CLAUDE.md
