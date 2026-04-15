@@ -21,7 +21,7 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 # News
 
 - *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
-- *2026*: Two papers on AI agent security accepted — "Agent Skills in the Wild" and "Malicious Agent Skills."
+- *2026*: Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."
 - *2026*: Papers accepted at WWW 2026 and new work on supply-chain poisoning attacks.
 - *2025*: Papers accepted at CCS 2025, WWW 2025, ACL 2025, ASE 2025, PETS 2025.
 - *2025*: Awarded **Anthropic Safety Bug Bounty x2**.
