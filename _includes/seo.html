@@ -14,9 +14,10 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
-<title>{{ seo_title }}{% if page.title %} | {{ site.title }}{% else %} - Homepage{% endif %}</title>
+<title>{{ seo_title }}{% if page.title %} | {{ site.title }}{% else %} — Academic Homepage{% endif %}</title>
 <meta name="description" content="{{ seo_description }}">
 <meta name="author" content="{{ site.author.name }}">
+<meta name="robots" content="index, follow">
 {% if site.keywords %}
 <meta name="keywords" content="{{ site.keywords }}">
 {% endif %}
@@ -26,9 +27,9 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ seo_title }}">
+<meta property="og:type" content="{% if page.url == '/' %}profile{% else %}website{% endif %}">
+<meta property="og:site_name" content="{{ site.author.name }} — Academic Homepage">
+<meta property="og:title" content="{{ seo_title }}{% if page.title %} | {{ site.author.name }}{% else %} — Academic Homepage{% endif %}">
 <meta property="og:description" content="{{ seo_description }}">
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -36,47 +37,108 @@
 {% endif %}
 {% if site.author.avatar %}
   <meta property="og:image" content="{{ site.author.avatar | prepend: '/' | prepend: seo_url }}">
+  <meta property="og:image:alt" content="Profile photo of {{ site.author.name }}">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+{% endif %}
+{% if page.url == '/' %}
+<meta property="profile:first_name" content="Yi">
+<meta property="profile:last_name" content="Liu">
 {% endif %}
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ seo_title }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title }}{% if page.title %} | {{ site.author.name }}{% else %} — Academic Homepage{% endif %}">
 <meta name="twitter:description" content="{{ seo_description }}">
 {% if site.author.avatar %}
   <meta name="twitter:image" content="{{ site.author.avatar | prepend: '/' | prepend: seo_url }}">
+  <meta name="twitter:image:alt" content="Profile photo of {{ site.author.name }}">
 {% endif %}
 
 <!-- JSON-LD Structured Data -->
+{% if page.url == '/' %}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "mainEntity": {
+      "@type": "Person",
+      "@id": "{{ seo_url }}/#person",
+      "name": "Yi Liu",
+      "alternateName": ["Yi LIU", "刘毅"],
+      "url": "{{ seo_url }}",
+      "jobTitle": "Lecturer (Assistant Professor)",
+      "description": "{{ seo_description }}",
+      "worksFor": {
+        "@type": "EducationalOrganization",
+        "name": "Griffith University",
+        "department": "School of Information and Communication Technology",
+        "url": "https://www.griffith.edu.au/"
+      },
+      "alumniOf": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "Nanyang Technological University",
+          "url": "https://www.ntu.edu.sg/"
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Southern University of Science and Technology",
+          "url": "https://www.sustech.edu.cn/en/"
+        }
+      ],
+      "knowsAbout": [
+        "LLM Security", "AI Agent Security", "Software Engineering", "Software Testing",
+        "Jailbreak Attacks", "Prompt Injection", "Penetration Testing",
+        "Large Language Models", "AI Safety", "Vulnerability Detection"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "PhD",
+          "recognizedBy": { "@type": "Organization", "name": "Nanyang Technological University" }
+        }
+      ],
+      {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
+      {% if site.author.avatar %}"image": "{{ site.author.avatar | prepend: '/' | prepend: seo_url }}",{% endif %}
+      "sameAs": [
+        {% if site.author.googlescholar %}"{{ site.author.googlescholar }}",{% endif %}
+        "https://github.com/GreyDGL/PentestGPT",
+        "https://dblp.org/search?q=Yi+Liu+NTU"
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Yi Liu — Academic Homepage",
+    "url": "{{ seo_url }}",
+    "description": "{{ seo_description }}"
+  }
+]
+</script>
+{% else %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "{{ site.author.name }}",
-  "url": "{{ seo_url }}",
-  "jobTitle": "Lecturer (Assistant Professor)",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Griffith University",
-    "url": "https://www.griffith.edu.au/"
+  "@type": "CollectionPage",
+  "name": "{{ seo_title }}",
+  "description": "{{ seo_description }}",
+  "url": "{{ canonical_url }}",
+  "author": {
+    "@type": "Person",
+    "@id": "{{ seo_url }}/#person",
+    "name": "Yi Liu"
   },
-  "alumniOf": [
-    {
-      "@type": "Organization",
-      "name": "Nanyang Technological University"
-    },
-    {
-      "@type": "Organization",
-      "name": "Southern University of Science and Technology"
-    }
-  ],
-  "knowsAbout": ["LLM Security", "AI Agent Security", "Software Engineering", "Software Testing", "Jailbreak Attacks", "Prompt Injection"],
-  {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
-  {% if site.author.avatar %}"image": "{{ site.author.avatar | prepend: '/' | prepend: seo_url }}",{% endif %}
-  "sameAs": [
-    {% if site.author.googlescholar %}"{{ site.author.googlescholar }}"{% endif %}
-  ]
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Yi Liu — Academic Homepage",
+    "url": "{{ seo_url }}"
+  }
 }
 </script>
+{% endif %}
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
