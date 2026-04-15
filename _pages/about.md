@@ -103,6 +103,7 @@ For a full list, see the [Publications](/publications/) page.
 
 - **Zhihao Chen** (Griffith University)
 - **Yujiang Li** (Griffith University)
+- **Ruoqi Guo** (Griffith University)
 - **Zihao Xu** (UNSW Sydney)
 - **Yuxi Li** (HUST)
 - **Ziqi Ding** (UNSW Sydney)
