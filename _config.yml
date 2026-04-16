@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Yi Liu"
-description              : "Yi Liu — Lecturer (Assistant Professor) at Griffith University. Research in LLM Security, AI Agent Security, and Software Engineering. Published at IEEE S&P, ACM CCS, USENIX Security, NDSS, ICSE, FSE, ACL, OOPSLA, ASE."
+description              : "Yi Liu — Lecturer (Assistant Professor) at Griffith University"
 url                      : "https://liuyi-academic.github.io"
 repository               : "liuyi-academic/liuyi-academic.github.io"
 keywords                 : "Yi Liu, Yi Liu Griffith, Yi Liu NTU, Yi Liu researcher, Griffith University, LLM Security, AI Agent Security, Software Engineering, Jailbreak, Prompt Injection, PentestGPT, OWASP LLM Top 10, AI Safety, Large Language Model Security, Penetration Testing LLM, Software Testing, AI Coding Agent Vulnerability"
