@@ -18,6 +18,8 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 
 **I am actively recruiting self-motivated PhD students and research interns. If you are interested in AI Security or Software Engineering research, please feel free to [email me](mailto:yi009@e.ntu.edu.sg)!**
 
+*For prospective students: you are encouraged to get in touch with students I supervise to learn more about my team before/after contacting me.*
+
 # News
 
 - *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
