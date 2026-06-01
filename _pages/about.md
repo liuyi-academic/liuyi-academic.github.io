@@ -22,6 +22,8 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 
 # News
 
+- *2026*: Two papers accepted at **USENIX Security 2026** — on detecting malicious agent skills and defending jailbreak attacks via manifold trajectory kinetics.
+- *2026*: Serving as PC member for **CIKM 2026**.
 - *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
 - *2026*: Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."
 - *2026*: Papers accepted at WWW 2026 and new work on supply-chain poisoning attacks.
