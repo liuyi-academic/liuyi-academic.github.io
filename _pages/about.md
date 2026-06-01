@@ -99,7 +99,7 @@ For a full list, see the [Publications](/publications/) page.
 # Professional Service
 
 **PC Member / Reviewer:**
-- ICSE 2027, WWW 2025 & 2026, SIGIR 2025, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
+- ICSE 2027, WWW 2025 & 2026, SIGIR 2025, CIKM 2026, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
 
 # Student Supervision
 
@@ -111,6 +111,9 @@ For a full list, see the [Publications](/publications/) page.
 - **Ziqi Ding** (UNSW Sydney)
 - **Kexin Chen** (ZJU)
 - **Haonan Zhang** (ZJU)
+- **Yue Wang** (NJU)
+- **Zihan Liu** (ZJU)
+- **Geng Li** (WFU)
 
 # Open Source Contributions & Vulnerability Discoveries
 

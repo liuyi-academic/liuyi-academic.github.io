@@ -11,6 +11,10 @@ author_profile: true
 
 ## LLM Security & Jailbreaking
 
+- **Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**
+  Hangtao Zhang, Yucheng Zhao, Sishun Liu, Ziqi Zhou, Zeyu Ye, Wei Wan, Minghui Li, Shengshan Hu, Yanjun Zhang, **Yi Liu**, Leo Zhang.
+  *USENIX Security 2026*.
+
 - **LLM-VA: Resolving the Jailbreak-Overrefusal Trade-off via Vector Alignment**
   Haonan Zhang, Dongxia Wang, **Yi Liu**, Kexin Chen, Wenhai Wang.
   *ACL 2026*.
@@ -111,9 +115,9 @@ author_profile: true
   **Yi Liu**, Weizhe Wang, Ruitao Feng, Yao Zhang, Guangquan Xu, Gelei Deng, Yuekang Li, Leo Zhang.
   *arXiv preprint arXiv:2601.10338*, 2026.
 
-- **Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study**
+- **"Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills**
   **Yi Liu**, Zhihao Chen, Yanjun Zhang, Gelei Deng, Yuekang Li, Jianting Ning, Ying Zhang, Leo Yu Zhang.
-  *arXiv preprint arXiv:2602.06547*, 2026.
+  *USENIX Security 2026*.
 
 - **Oedipus: LLM-Enhanced Reasoning CAPTCHA Solver**
   Gelei Deng, Haoran Ou, **Yi Liu**, Jie Zhang, Tianwei Zhang, Yang Liu.
