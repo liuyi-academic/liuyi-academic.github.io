@@ -35,25 +35,15 @@
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
-{% if site.author.avatar %}
-  <meta property="og:image" content="{{ site.author.avatar | prepend: '/' | prepend: seo_url }}">
-  <meta property="og:image:alt" content="Profile photo of {{ site.author.name }}">
-  <meta property="og:image:width" content="512">
-  <meta property="og:image:height" content="512">
-{% endif %}
 {% if page.url == '/' %}
 <meta property="profile:first_name" content="Yi">
 <meta property="profile:last_name" content="Liu">
 {% endif %}
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ seo_title }}{% if page.title %} | {{ site.author.name }}{% else %} — Academic Homepage{% endif %}">
 <meta name="twitter:description" content="{{ seo_description }}">
-{% if site.author.avatar %}
-  <meta name="twitter:image" content="{{ site.author.avatar | prepend: '/' | prepend: seo_url }}">
-  <meta name="twitter:image:alt" content="Profile photo of {{ site.author.name }}">
-{% endif %}
 
 <!-- JSON-LD Structured Data -->
 {% if page.url == '/' %}
