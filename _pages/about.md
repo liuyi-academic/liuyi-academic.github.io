@@ -22,6 +22,7 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 
 # News
 
+- *2026*: Serving as **PC Member for USENIX Security 2027**.
 - *2026*: Two papers accepted at **USENIX Security 2026** — on detecting malicious agent skills and defending jailbreak attacks via manifold trajectory kinetics.
 - *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
 - *2026*: Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."
@@ -100,7 +101,7 @@ For a full list, see the [Publications](/publications/) page.
 # Professional Service
 
 **PC Member / Reviewer:**
-- ICSE 2027, WWW 2025 & 2026, SIGIR 2025, CIKM 2026, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
+- USENIX Security 2027, ICSE 2027, WWW 2025 & 2026, SIGIR 2025, CIKM 2026, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
 
 # Student Supervision
 
