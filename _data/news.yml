@@ -1,0 +1,28 @@
+# News entries, newest first. Rendered on the landing page (top 10) and the
+# full /news/ page. `date` is the year label; `text` is markdown.
+- date: "2026"
+  text: 'Serving as **PC Member for USENIX Security 2027**.'
+- date: "2026"
+  text: 'Paper accepted at **ASE 2026** — empirical study on how credentials are leaked by LLM agent skills.'
+- date: "2026"
+  text: 'Two papers accepted at **USENIX Security 2026** — on detecting malicious agent skills and defending jailbreak attacks via manifold trajectory kinetics.'
+- date: "2026"
+  text: 'Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.'
+- date: "2026"
+  text: 'Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."'
+- date: "2026"
+  text: 'Papers accepted at WWW 2026 and new work on supply-chain poisoning attacks.'
+- date: "2025"
+  text: 'Papers accepted at CCS 2025, WWW 2025, ACL 2025, ASE 2025, PETS 2025.'
+- date: "2025"
+  text: 'Awarded **Anthropic Safety Bug Bounty x2**.'
+- date: "2025"
+  text: '**Most Innovation Paper Award** at HMISA 2025.'
+- date: "2024"
+  text: 'Received **Distinguished Paper Award** (AISCC) and **Distinguished Reviewer Award** (Forge).'
+- date: "2024"
+  text: 'Received **Chinese Government Award for Outstanding Self-financed Students Abroad**.'
+- date: "2024"
+  text: 'Papers accepted at USENIX Security 2024, ACL 2024, OOPSLA 2024, ASE 2024.'
+- date: "2024"
+  text: 'Received the **DALL-E Detection Classifier Access Program** from OpenAI.'

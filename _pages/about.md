@@ -22,19 +22,10 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 
 # News
 
-- *2026*: Serving as **PC Member for USENIX Security 2027**.
-- *2026*: Paper accepted at **ASE 2026** — empirical study on how credentials are leaked by LLM agent skills.
-- *2026*: Two papers accepted at **USENIX Security 2026** — on detecting malicious agent skills and defending jailbreak attacks via manifold trajectory kinetics.
-- *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
-- *2026*: Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."
-- *2026*: Papers accepted at WWW 2026 and new work on supply-chain poisoning attacks.
-- *2025*: Papers accepted at CCS 2025, WWW 2025, ACL 2025, ASE 2025, PETS 2025.
-- *2025*: Awarded **Anthropic Safety Bug Bounty x2**.
-- *2025*: **Most Innovation Paper Award** at HMISA 2025.
-- *2024*: Received **Distinguished Paper Award** (AISCC) and **Distinguished Reviewer Award** (Forge).
-- *2024*: Received **Chinese Government Award for Outstanding Self-financed Students Abroad**.
-- *2024*: Papers accepted at USENIX Security 2024, ACL 2024, OOPSLA 2024, ASE 2024.
-- *2024*: Received the **DALL-E Detection Classifier Access Program** from OpenAI.
+{% for item in site.data.news limit:10 -%}
+- *{{ item.date }}*: {{ item.text }}
+{% endfor %}
+[More news →](/news/){: .btn}
 
 # Selected Publications
 
