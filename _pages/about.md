@@ -23,6 +23,7 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 # News
 
 - *2026*: Serving as **PC Member for USENIX Security 2027**.
+- *2026*: Paper accepted at **ASE 2026** — empirical study on how credentials are leaked by LLM agent skills.
 - *2026*: Two papers accepted at **USENIX Security 2026** — on detecting malicious agent skills and defending jailbreak attacks via manifold trajectory kinetics.
 - *2026*: Joining Griffith University as Lecturer (Assistant Professor) at School of ICT.
 - *2026*: Two preprints on AI agent security — "Agent Skills in the Wild" and "Malicious Agent Skills."

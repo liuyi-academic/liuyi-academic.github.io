@@ -103,9 +103,9 @@ author_profile: true
   Yubin Qu, **Yi Liu**, Tongcheng Geng, Gelei Deng, Yuekang Li, Leo Yu Zhang, Ying Zhang, Lei Ma.
   *arXiv preprint arXiv:2604.03081*, 2026.
 
-- **Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**
+- **How Your Credentials Are Leaked by LLM Agent Skills: An Empirical Study**
   Zhihao Chen, Ying Zhang, **Yi Liu**, Gelei Deng, Yuekang Li, Yanjun Zhang, Jianting Ning, Leo Yu Zhang, Lei Ma, Zhiqiang Li.
-  *arXiv preprint arXiv:2604.03070*, 2026.
+  *ASE 2026*.
 
 - **What Makes a Good LLM Agent for Real-world Penetration Testing?**
   Gelei Deng, **Yi Liu**, Yuekang Li, Ruozhao Yang, Xiaofei Xie, Jie Zhang, Han Qiu, Tianwei Zhang.
