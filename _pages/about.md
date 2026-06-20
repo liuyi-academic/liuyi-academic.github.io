@@ -25,7 +25,8 @@ My research focuses on **LLM Security**, **AI Agent Security**, and **Software E
 {% for item in site.data.news limit:10 -%}
 - *{{ item.date }}*: {{ item.text }}
 {% endfor %}
-[More news →](/news/){: .btn}
+*[More news →](/news/)*
+{: .text-right}
 
 # Selected Publications
 
