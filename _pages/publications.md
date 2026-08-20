@@ -151,6 +151,10 @@ author_profile: true
 
 ## Software Testing & Analysis
 
+- **SAF: An AI-Agent-Ready and Browser-Accessible Static Analysis Framework for LLVM IR**
+  Yuekang Li, Wei Li, Wei Song, **Yi Liu**, Gelei Deng.
+  *ASE 2026 (Tools and Datasets)*.
+
 - **STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter**
   Ziqi Xu, **Yi Liu**, Yuekang Li, Ling Shi, Kailong Wang, Yongxin Zhao.
   *arXiv preprint arXiv:2601.10223*, 2026.
