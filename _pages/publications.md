@@ -131,10 +131,6 @@ author_profile: true
   Ziqi Ding, Qiang Fu, Junchen Ding, Gelei Deng, **Yi Liu**, Yuekang Li.
   *IEEE S&P Workshop 2025*.
 
-- **SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**
-  Wang Lingxiang, Quanzhi Fu, Wenjia Song, Gelei Deng, **Yi Liu**, Dan Williams, Ying Zhang.
-  *arXiv preprint arXiv:2506.17798*, 2025.
-
 - **ai.txt: A Domain-Specific Language for Guiding AI Interactions with the Internet**
   Yuekang Li, Wei Song, Bangshuo Zhu, Dong Gong, **Yi Liu**, Gelei Deng, Chunyang Chen, Lei Ma, Jun Sun, Toby Walsh, Jingling Xue.
   *arXiv preprint arXiv:2505.07834*, 2025.
