@@ -94,7 +94,7 @@ For a full list, see the [Publications](/publications/) page.
 # Professional Service
 
 **PC Member / Reviewer:**
-- USENIX Security 2027, ICSE 2027, WWW 2025 & 2026, SIGIR 2025, CIKM 2026, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
+- USENIX Security 2027, ICSE 2027, WSDM 2027, AAAI 2027, WWW 2025 & 2026, SIGIR 2025, CIKM 2026, ASE 2024, EASE 2024 & 2025, FORGE 2024, TDSC, TIFS, TOSEM, MSR 2024
 
 # Student Supervision
 
