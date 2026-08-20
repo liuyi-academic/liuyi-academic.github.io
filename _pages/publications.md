@@ -99,6 +99,10 @@ author_profile: true
 
 ## AI Agent & Software Supply Chain Security
 
+- **CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs**
+  Quanzhi Fu, Lingxiang Wang, Wenjia Song, Gelei Deng, **Yi Liu**, Dan Williams, Ying Zhang.
+  *ESEM 2026*.
+
 - **Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems**
   Yubin Qu, **Yi Liu**, Tongcheng Geng, Gelei Deng, Yuekang Li, Leo Yu Zhang, Ying Zhang, Lei Ma.
   *arXiv preprint arXiv:2604.03081*, 2026.
