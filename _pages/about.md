@@ -16,7 +16,7 @@ I received my Ph.D. from the [School of Computer Science and Engineering](https:
 
 My research focuses on **LLM Security**, **AI Agent Security**, and **Software Engineering/Testing**. I have published various papers at top venues including IEEE S&P, ACM CCS, USENIX Security, NDSS, ICSE, FSE, ACL, OOPSLA, and ASE. My work has been cited by [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/), [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/), [NIST](https://www.nist.gov/), [Google DeepMind](https://deepmind.google/), [OpenAI](https://openai.com/), and [NVIDIA](https://www.nvidia.com/). I am a core contributor to [PentestGPT](https://github.com/GreyDGL/PentestGPT) (11k+ stars) and have discovered security vulnerabilities in major AI coding agents including OpenHands, Claude Code, and Gemini CLI.
 
-**I am actively recruiting self-motivated PhD students and research interns. If you are interested in AI Security or Software Engineering research, please feel free to [email me](mailto:yi009@e.ntu.edu.sg)!**
+**I am actively recruiting self-motivated PhD students and research interns. If you are interested in AI Security or Software Engineering research, please feel free to [email me](mailto:yi.liu@griffith.edu.au)!**
 
 *For prospective students: you are encouraged to get in touch with students I supervise to learn more about my team before/after contacting me.*
 
