@@ -1,6 +1,8 @@
 # News entries, newest first. Rendered on the landing page (top 10) and the
 # full /news/ page. `date` is the year label; `text` is markdown.
 - date: "2026"
+  text: 'Research proposal on trustworthy open models (TPU-native safety post-training and red-teaming for Gemma) funded by the **Google TPU Research Award**.'
+- date: "2026"
   text: 'Serving as **PC Member for USENIX Security 2027**.'
 - date: "2026"
   text: 'Paper accepted at **ASE 2026** — empirical study on how credentials are leaked by LLM agent skills.'
