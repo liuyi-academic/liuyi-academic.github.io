@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Lecturer (Assistant Professor) at the [School of Information and Communication Technology (ICT)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology), [Griffith University](https://www.griffith.edu.au/), Australia. Previously, I was an AI Research Engineer at [Quantstamp](https://quantstamp.com/), building the next-generation AI firewall.
+I am a Lecturer (Assistant Professor) at the [School of Information and Communication Technology (ICT)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology), [Griffith University](https://www.griffith.edu.au/), Australia.
 
 I received my Ph.D. from the [School of Computer Science and Engineering](https://www.ntu.edu.sg/computing) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, advised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) and working closely with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I obtained my Bachelor's degree from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) with **Summa Cum Laude** (Top 10 in ~1000), advised by [Prof. Yepang Liu](https://yepangliu.github.io/).
 
