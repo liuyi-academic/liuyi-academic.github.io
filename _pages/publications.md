@@ -99,6 +99,10 @@ author_profile: true
 
 ## AI Agent & Software Supply Chain Security
 
+- **Silent and Costly: Characterizing and Detecting Prompt-Caching Mis-Integration in LLM Agents**
+  Ruoqi Guo, Ying Zhang, **Yi Liu**, Gelei Deng, Yuekang Li, Yepang Liu, Leo Zhang.
+  *ICSE 2027*.
+
 - **CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs**
   Quanzhi Fu, Lingxiang Wang, Wenjia Song, Gelei Deng, **Yi Liu**, Dan Williams, Ying Zhang.
   *ESEM 2026*.
