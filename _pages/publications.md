@@ -87,7 +87,7 @@ author_profile: true
 - **Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study**
   **Yi Liu**\*, Gelei Deng\*, Zhengzi Xu, Yuekang Li, Yaowen Zheng, Ying Zhang, Lida Zhao, Tianwei Zhang, Kailong Wang, Yang Liu.
   *arXiv preprint arXiv:2305.13860*, 2023.
-  <br>*Cited in policy documents:* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)); Georgetown CSET ([Controlling Large Language Model Outputs: A Primer](https://cset.georgetown.edu/publication/controlling-large-language-models-a-primer/)); CSIS ([Defense Priorities in the Open-Source AI Debate](https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)); Washington State WaTech ([Responsible AI in the Public Sector](https://watech.wa.gov/about/reports-documents)).
+  <br>*Cited in policy documents:* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai), chaired by Yoshua Bengio); Georgetown CSET ([Controlling Large Language Model Outputs: A Primer](https://cset.georgetown.edu/publication/controlling-large-language-models-a-primer/)); CSIS ([Defense Priorities in the Open-Source AI Debate](https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)); Washington State WaTech ([Responsible AI in the Public Sector](https://watech.wa.gov/about/reports-documents)).
 
 - **Prompt Injection Attack against LLM-Integrated Applications**
   **Yi Liu**\*, Gelei Deng\*, Yuekang Li, Kailong Wang, Zihao Wang, Xiaofeng Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Leo Yu Zhang, Yang Liu.
@@ -144,7 +144,7 @@ author_profile: true
 - **PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing**
   Gelei Deng, **Yi Liu**\*, Víctor Mayoral-Vilches, Peng Liu, Yuekang Li, Yuan Xu, Tianwei Zhang, Yang Liu.
   *USENIX Security 2024*.
-  <br>*Cited in policy documents (arXiv version):* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)).
+  <br>*Cited in policy documents (arXiv version):* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai), chaired by Yoshua Bengio).
 
 - **NAUTILUS: Automated RESTful API Vulnerability Detection**
   Gelei Deng, Zhiyi Zhang, Yuekang Li, **Yi Liu**, Tianwei Zhang, Yang Liu, Guo Yu, Dongjin Wang.
