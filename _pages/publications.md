@@ -62,6 +62,7 @@ author_profile: true
 - **Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection**
   Yuxi Li\*, **Yi Liu**\*, Gelei Deng, Ying Zhang, Wenjia Song, Ling Shi, Kailong Wang, Yuekang Li, Yang Liu, Haoyu Wang.
   *FSE 2024*.
+  <br>*Cited in policy documents:* RAND ([A Structured Approach to Identifying and Characterizing AI Vulnerabilities](https://www.rand.org/pubs/research_reports/RRA4983-1.html)).
 
 - **Automatic Code Summarization via ChatGPT: How Far Are We?**
   Weisong Sun, Chunrong Fang, Yudu You, Yun Miao, **Yi Liu**, Yuekang Li, Gelei Deng, Shenghan Huang, Yuchen Chen, Quanjun Zhang, Hanwei Qian, Yang Liu, Zhenyu Chen.
@@ -86,6 +87,7 @@ author_profile: true
 - **Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study**
   **Yi Liu**\*, Gelei Deng\*, Zhengzi Xu, Yuekang Li, Yaowen Zheng, Ying Zhang, Lida Zhao, Tianwei Zhang, Kailong Wang, Yang Liu.
   *arXiv preprint arXiv:2305.13860*, 2023.
+  <br>*Cited in policy documents:* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)); Georgetown CSET ([Controlling Large Language Model Outputs: A Primer](https://cset.georgetown.edu/publication/controlling-large-language-models-a-primer/)); CSIS ([Defense Priorities in the Open-Source AI Debate](https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)); Washington State WaTech ([Responsible AI in the Public Sector](https://watech.wa.gov/about/reports-documents)).
 
 - **Prompt Injection Attack against LLM-Integrated Applications**
   **Yi Liu**\*, Gelei Deng\*, Yuekang Li, Kailong Wang, Zihao Wang, Xiaofeng Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Leo Yu Zhang, Yang Liu.
@@ -142,6 +144,7 @@ author_profile: true
 - **PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing**
   Gelei Deng, **Yi Liu**\*, Víctor Mayoral-Vilches, Peng Liu, Yuekang Li, Yuan Xu, Tianwei Zhang, Yang Liu.
   *USENIX Security 2024*.
+  <br>*Cited in policy documents (arXiv version):* UK Government ([International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)).
 
 - **NAUTILUS: Automated RESTful API Vulnerability Detection**
   Gelei Deng, Zhiyi Zhang, Yuekang Li, **Yi Liu**, Tianwei Zhang, Yang Liu, Guo Yu, Dongjin Wang.
