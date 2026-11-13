@@ -60,6 +60,7 @@ For a full list, see the [Publications](/publications/) page.
 
 # Awards & Honors
 
+- *2026*: Bug Bounty, OpenAI
 - *2025*: Anthropic Safety Bug Bounty x2, Anthropic
 - *2025*: Most Innovation Paper Award, HMISA
 - *2024*: DALL-E Detection Classifier Access Program, OpenAI
