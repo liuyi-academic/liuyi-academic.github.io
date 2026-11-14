@@ -1,6 +1,8 @@
 # News entries, newest first. Rendered on the landing page (top 10) and the
 # full /news/ page. `date` is the year label; `text` is markdown.
 - date: "2026"
+  text: 'Security vulnerability in **Gemini CLI** confirmed by Google.'
+- date: "2026"
   text: 'Received a **Bug Bounty** from OpenAI for a security vulnerability in Codex.'
 - date: "2026"
   text: 'Paper accepted at **ICSE 2027** — characterizing and detecting prompt-caching mis-integration in LLM agents.'
